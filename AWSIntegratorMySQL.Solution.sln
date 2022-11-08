@@ -9,11 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSIntegratorMySQL.Domain",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSIntegratorMySQL.Infra", "AWSIntegratorMySQL.Infra\AWSIntegratorMySQL.Infra.csproj", "{28C33669-50A6-4FCB-9072-0579E85AF83C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SupportFiles", "SupportFiles", "{0E56CEE1-F26D-4837-8294-9D1946B5F5AA}"
-	ProjectSection(SolutionItems) = preProject
-		Script_Create_Database.sql = Script_Create_Database.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
