@@ -8,4 +8,6 @@ Para rodar a aplicação deve-se seguir os seguintes passos:
 * Rodar a aplicação;
 
 
+
+
 No caminho *SupportFiles/Prints* existem algumas imagens com as configurações da AWS;
