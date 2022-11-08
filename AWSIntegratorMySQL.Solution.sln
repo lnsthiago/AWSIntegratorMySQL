@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.3.32929.385
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSIntegratorMySQL.Console", "AWSIntegratorMySQL.Console\AWSIntegratorMySQL.Console.csproj", "{70E5103C-CC0B-40C2-8897-D4533238F6C0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSIntegratorMySQL.Domain", "AWSIntegratorMySQL.Domain\AWSIntegratorMySQL.Domain.csproj", "{CED71283-6D66-4356-B53A-D2D6DA5EC12B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSIntegratorMySQL.Infra", "AWSIntegratorMySQL.Infra\AWSIntegratorMySQL.Infra.csproj", "{28C33669-50A6-4FCB-9072-0579E85AF83C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SupportFiles", "SupportFiles", "{0E56CEE1-F26D-4837-8294-9D1946B5F5AA}"
+	ProjectSection(SolutionItems) = preProject
+		Script_Create_Database.sql = Script_Create_Database.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
