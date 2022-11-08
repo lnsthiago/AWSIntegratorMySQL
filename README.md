@@ -6,3 +6,6 @@ Para rodar a aplicação deve-se seguir os seguintes passos:
 * No arquivo de configuração *appsettings.json*, editar a tag *DefaultConnection*;
 * Autenticar na AWS localmente, **solicitar ao desenvolvedor chave de acesso**.
 * Rodar a aplicação;
+
+
+No caminho *SupportFiles/Prints* existem algumas imagens com as configurações da AWS;
